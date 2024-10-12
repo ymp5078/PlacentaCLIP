@@ -1,0 +1,10 @@
+# cache
+*__pycache__*
+
+# log files
+*dumps/*
+*outputs/*
+*logs/*
+
+#data
+*data/*
