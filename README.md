@@ -1,28 +1,25 @@
 <div align="center">
-<h1>
-<b>
-Cross-modal Contrastive Learning for Unified Placenta Analysis Using Photographs
-</b>
-</h1>
-<h4>
-<b>
-Yimu Pan, Manas Mehta, Jeffery A. Goldstein, Joseph Ngonzi, Lisa M. Bebell, Drucilla J. Roberts, Chrystalle Katte Carreon, Kelly Gallagher, Rachel E. Walker,
-Alison D. Gernand, and James Z. Wang  
-</b>
-</h4>
+  <h1>
+    <b>
+      Cross-modal Contrastive Learning for Unified Placenta Analysis Using Photographs
+    </b>
+  </h1>
+  <h4>
+    <b>
+      <a href="https://doi.org/10.1016/j.patter.2024.101097" target="_blank">[Cell Press Patterns]</a><br>
+      Yimu Pan, Manas Mehta, Jeffery A. Goldstein, Joseph Ngonzi, Lisa M. Bebell, Drucilla J. Roberts, 
+      Chrystalle Katte Carreon, Kelly Gallagher, Rachel E. Walker, Alison D. Gernand, and James Z. Wang
+    </b>
+  </h4>
 </div>
 
-<a name="intro"/>
 
 ## Introduction
 This repository contains the training and evaluation code for PlacentaCLIP
 
-<a name="depend"/>
 
 ## Dependencies
 See the requirements.txt file.
-
-<a name="datasets"/>
 
 ## Datasets
 Please contact James Z. Wang (jwang@ist.psu.edu).
