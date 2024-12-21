@@ -54,3 +54,19 @@ python test_must.py --exp_name='PlacentaCLIP+' --pooling_type='transformer'
 ## Acknowledgement
 
 This repo uses code from [x-pool](https://github.com/layer6ai-labs/xpool), [OpenCLIP](https://github.com/mlfoundations/open_clip) and [WBAug](https://github.com/mahmoudnafifi/WB_color_augmenter/tree/master).
+
+
+## Citation
+```
+@article{pan2024cross,
+    title = {Cross-modal contrastive learning for unified placenta analysis using photographs},
+    journal = {Patterns},
+    volume = {5},
+    number = {12},
+    pages = {101097},
+    year = {2024},
+    issn = {2666-3899},
+    doi = {https://doi.org/10.1016/j.patter.2024.101097},
+    author = {Yimu Pan and Manas Mehta and Jeffery A. Goldstein and Joseph Ngonzi and Lisa M. Bebell and Drucilla J. Roberts and Chrystalle Katte Carreon and Kelly Gallagher and Rachel E. Walker and Alison D. Gernand and James Z. Wang}
+}
+```
